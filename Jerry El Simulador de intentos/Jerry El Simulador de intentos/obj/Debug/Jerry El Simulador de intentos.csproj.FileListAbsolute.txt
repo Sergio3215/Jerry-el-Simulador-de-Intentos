@@ -1,0 +1,5 @@
+C:\Users\Sergio\source\repos\Jerry El Simulador de intentos\Jerry El Simulador de intentos\bin\Debug\Jerry El Simulador de intentos.exe
+C:\Users\Sergio\source\repos\Jerry El Simulador de intentos\Jerry El Simulador de intentos\bin\Debug\Jerry El Simulador de intentos.pdb
+C:\Users\Sergio\source\repos\Jerry El Simulador de intentos\Jerry El Simulador de intentos\obj\Debug\Jerry El Simulador de intentos.csprojAssemblyReference.cache
+C:\Users\Sergio\source\repos\Jerry El Simulador de intentos\Jerry El Simulador de intentos\obj\Debug\Jerry El Simulador de intentos.exe
+C:\Users\Sergio\source\repos\Jerry El Simulador de intentos\Jerry El Simulador de intentos\obj\Debug\Jerry El Simulador de intentos.pdb
